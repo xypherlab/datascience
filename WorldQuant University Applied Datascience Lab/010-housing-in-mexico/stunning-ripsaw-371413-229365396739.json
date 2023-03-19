@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stunning-ripsaw-371413",
+  "private_key_id": "22936539673984206fe0c580a930f63301a57742",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCza0cGW14efsaI\n5PVQA6k/CRCjcqXE2d6VIu8S4Oi+qf2FYoEShSRZRrpplSN6Q1n+0xX+lzNgGTWR\nWz1eQqnUtwn97oSoGFmUehmifjj8lx5P89UgVWfSOgjQ7it831o7HIH48fj3NWm/\noEkg/zMBiHxuxtyNv746UcpJCs2f1gyoxEqxXqv3NkTDfk8iHqrCEa8+IrJEg5Qg\n7yOCgBK3EFi/yKCLyklQUX/+6ctZUT+EyQs4WegJGLZVCLomYYNOEgFY5Z5rb+y+\nY6ReIkg3YjIar9HqNg5ioAjOPO4uMuL2MLYFG0f+UuwNpaZMG9VL1wqz5DJ9Xev4\nJcWzqFVXAgMBAAECggEAUxly0fzrgNBTAACbpi2r6+g07p8hLCWEtCpz9Jh69CQj\nqe3PvlYwWbEqkdBjmDMtsZru6vX48595chOCPvA9XKpSVGxuwLRWeTB8QwiXOFZ9\n0aYrpkgoR/RdNPe66KFCV3KCuFzKZSU2D20bsc7BPwqKJ3yvlm+imbxcJqx8RHTG\nc1meum+XrXrmZoIAzw2yHUQrI54K+fcLk6qRZOLFu8OfXqF+sW8uI3nVKaycyszl\nN0TyMfyedgxPgHAMK4kyPSED+SXgFOXM/qJpTneymmH/nDNlHrIK67fObp3PxRaP\niY6kv34TmGSwFmxOB4u91KrNB93ER/S6oGJlIVhN4QKBgQDlrpsNGkoSL8BYIllI\nrwW5ZK8/ek+IyIdmiJO9waTt/AhiEqzdKELkm0bTKRrm8hRPbe8T1noFluCwnvpr\nyVHwRchu15bYVHUziGvz1DEZ/wrFwW8wvR3XCBIkdcZWCaWHZT4JIsdtj3P92/kD\nvxjlIu4TMLOMa8beppEcO7lAyQKBgQDH+kdQncqEYccXpZx0KiQD1/WNeHvq7BZP\nV11lUcOxN29v2eJ8iXLI5TdEi/r/QvEIi8J1FsGR1IRRggo4EWo0vVV9B/87iFSy\nQfcmfJu0B8H1kKvHS9WgRbvFSeeJZJQzXqFamkdpoqKblXoP3wYY/i3Ss6CMHJzq\nw659jCEVHwKBgQDRj+KArf/vYApLX+u+2ZKLeUY80MhIsU55SxwiAtENIuwzL37x\nuo5uLw8ME3EsTqwhXNjKbOKgvuz7udIbDnDonYMnPyWu9ECLaGm262Bxq7aUgM2G\n1sanMAH9qkfwsJSLWOClTUpQuJbIhTBLLsz0JE68y67G7H9jHu8/p257oQKBgBGt\nNNqSaBFVl0Sm1fKKuw4/66uqp8F3Ru2SemX3WUXz8XzAlL2PZL8PS9haS0B/CVFJ\nEVJKRaf/UgbmaMLV/z5UMhdQOqZngZ0UKaWURCsguGtdc2G1eVemcleZFcdWRadY\nyQh6NK/IuXjpOJXoj+Brr189k4ZvDQvPakAcv9vfAoGBAKe4EIvot/46/HmBqX3i\nEPIGolRfthjOMzowJxQf+wQxXz2WCk7/yJMGzTtUhssYNTyNlL7gqPJGBcKf4Yh1\nn7B57sB0ugNfSDslr9fvIoPbk3g42p4SQSudcvsroO+lZtnLziEfy+dXIIougLKO\nTB8tva29lLLDPBCHieroX1gz\n-----END PRIVATE KEY-----\n",
+  "client_email": "pydrive@stunning-ripsaw-371413.iam.gserviceaccount.com",
+  "client_id": "110992103652118672310",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pydrive%40stunning-ripsaw-371413.iam.gserviceaccount.com"
+}
